@@ -20,11 +20,11 @@
 
 ##Data type  
 
-int (whole number) - 19, 15
-double (decimal) - 1.30, 5.00 
-char (Character) - 'A', 'S' //needs to be inside ' ' 
-boolean (true or flase) - true, false 
-String (word, number or sentence) - "My name is Shashwat. I am 23 years old." //anything inside "" is string. 
+- int (whole number) = 19, 15
+- double (decimal) = 1.30, 5.00 
+- char (Character) = 'A', 'S' //needs to be inside ' ' 
+- boolean (true or flase) = true, false 
+- String (word, number or sentence) = "My name is Shashwat. I am 23 years old." //anything inside "" is string. 
 
 ##Variable 
 
