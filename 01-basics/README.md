@@ -2,9 +2,13 @@
 
 This section contains my notes on core Java fundamentals.
 
-##Topic: 
--Java Basic 
--String Basic 
--Arithmethic operators 
--Logical operators 
--User Input 
+---
+
+## Topics Covered
+
+- Java Basics
+- String Basics
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- User Input
