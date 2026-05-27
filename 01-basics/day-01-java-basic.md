@@ -1,43 +1,84 @@
-#Java Basic day 1: 
+# Java Basics - Day 1
 
-##Important points: 
-- Java is case senser programming langyage. 
+## Important Points
+
+- Java is a case-sensitive programming language.
 - `//` is used for single-line comments.
 - `/* */` is used for multi-line comments.
-- Need to declare data type before declaring variable 
+- We need to declare the data type before declaring a variable.
 
+---
 
-##Java programs are written inside classes
+## Java Programs Are Written Inside Classes
 
 ```java
- public class Main{ //"Main" is a class name. 
-     public static void main(String[] args){
-     }
-} 
+public class Main { // "Main" is the class name
+
+    public static void main(String[] args) {
+
+    }
+
+}
 ```
+
 - `public class Main` → defines a class
-- `main()` → entry point of the Java progra
+- `main()` → entry point of the Java program
 
-##Data type  
+---
 
-- int (whole number) = 19, 15
-- double (decimal) = 1.30, 5.00 
-- char (Character) = 'A', 'S' //needs to be inside ' ' 
-- boolean (true or flase) = true, false 
-- String (word, number or sentence) = "My name is Shashwat. I am 23 years old." //anything inside "" is string. 
+## Data Types
 
-##Variable 
+- `int` (whole numbers)
+  - Examples: `19`, `15`
 
-varaible is like a placeholder that holds the value. 
+- `double` (decimal numbers)
+  - Examples: `1.30`, `5.00`
 
-I think of it like a box that holds a value inside. 
+- `char` (single character)
+  - Examples: `'A'`, `'S'`
+  - Characters must be inside single quotes `' '`.
 
-for eg: 
+- `boolean` (true or false values)
+  - Examples: `true`, `false`
+
+- `String` (words, numbers, or sentences)
+  - Example:
+```java
+"My name is Shashwat. I am 23 years old."
+```
+
+Anything inside double quotes `" "` is considered a String.
+
+---
+
+## Variables
+
+A variable is like a placeholder that stores a value.
+
+I think of it like a box that holds a value inside.
+
+Example:
 
 ```java
 String name = "Shashwat";
-``` 
+```
 
-String = data type 
-name = varuable 
-value = "Shashwat" 
+Explanation:
+
+```java
+String      -> data type
+name        -> variable name
+"Shashwat"  -> value
+```
+
+---
+
+## Summary
+
+Today I learned:
+- Java basics
+- classes and main method
+- comments
+- data types
+- variables
+- storing values in Java
